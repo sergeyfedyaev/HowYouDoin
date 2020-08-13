@@ -43,6 +43,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		244097EE24E5C10400DD2A3D /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				245284E424E53E1800C135C2 /* audio.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
 		245284BD24E52C7900C135C2 = {
 			isa = PBXGroup;
 			children = (
@@ -66,7 +74,7 @@
 			children = (
 				245284C924E52C7900C135C2 /* AppDelegate.swift */,
 				245284CB24E52C7900C135C2 /* SceneDelegate.swift */,
-				245284E424E53E1800C135C2 /* audio.mp3 */,
+				244097EE24E5C10400DD2A3D /* Sounds */,
 				245284CD24E52C7900C135C2 /* ViewController.swift */,
 				245284CF24E52C7900C135C2 /* Main.storyboard */,
 				245284D224E52C7C00C135C2 /* Assets.xcassets */,

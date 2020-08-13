@@ -12,4 +12,5 @@ During the development of this app I learned:
 
 * Working with buttons
 * Working with mp3 files
+* Working with timers
 * Making the image apper and disappear
